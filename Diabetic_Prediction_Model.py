@@ -35,8 +35,8 @@ def main():
     # Pregnancies	Glucose	BloodPressure	SkinThickness	Insulin	BMI	DiabetesPedigreeFunction	Age	Outcome
 
     Pregnancies=st.text_input("Number of  Pregnancies : ")
-    Glucose=st.text_input("Glucode Level:")
-    BloodPressure=st.text_input("BloodPressure Value : ")
+    Glucose=st.text_input("Glucose Level:")
+    BloodPressure=st.text_input("Blood Pressure Value : ")
     SkinThickness=st.text_input("Skin Thickness Value : ")
     Insulin =st.text_input("Insulin Level: ")
     BMI=st.text_input("BMI Value : ")
